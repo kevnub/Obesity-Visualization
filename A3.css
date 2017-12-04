@@ -1,0 +1,58 @@
+#parent {
+  display: flex;
+}
+#narrow {
+  width: 600px;
+}
+#map {
+  flex: 1;
+}
+
+/* On mouse hover, lighten state color */
+path:hover {
+	fill-opacity: .7;
+}
+
+
+/* Legend Font Style */
+body {
+	font: 11px sans-serif;
+}
+
+/* Legend Position Style */
+.legend {
+	position:absolute;
+	left:800px;
+	top:350px;
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+
+.linegraph body { font: 12px Arial;}
+
+.linegraph path {
+    stroke: steelblue;
+    stroke-width: 1;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+circle {
+    stroke: #565352;
+    stroke-width: 1;
+}

@@ -1,0 +1,51 @@
+State,StateAbbr,Exercise,Good,Overweight,Obese,Overweight or Obese,Poverty Rate,Favourite Cereal
+Alabama,AL,70.2,33.4,35.7,30.9,66.6,16.1,Special K
+Alaska,AK,80,34.8,36.9,28.2,65.1,10.8,Shredded Wheat
+Arizona,AZ,77.6,37.3,36.8,25.8,62.6,19.2,Rice Krispies
+Arkansas,AR,71.9,34.4,36.3,29.3,65.6,16.5,Raisin Bran
+California,CA,76.9,41,35.7,23.3,59,15.4,Special K
+Colorado,CO,82.7,44.4,36.4,19.3,55.7,11.9,Cinnamon Toast Crunch
+Connecticut,CT,80.3,40.8,37.5,21.7,59.2,8.3,Cinnamon Toast Crunch
+Delaware,DE,77.9,34.9,36.8,28.2,65,11.3,Vanilla Coconut
+Florida,FL,74.6,37.9,38,24.1,62.1,14.6,Special K
+Georgia,GA,75.3,35,36.3,28.7,65,17.5,Ancient Grains Cheerios
+Hawaii,HI,82,43.2,35.1,21.7,56.8,11.5,Great Grains
+Idaho,ID,80.4,36.9,38,25.1,63.1,13.3,Quaker Oatmeal Squares
+Illinois,IL,77,37,37.4,25.6,63,13.2,Special K
+Indiana,IN,75.8,36.8,35.8,27.4,63.2,15.6,All Bran
+Iowa,IA,77.9,35.3,37,27.7,64.7,10.2,Special K
+Kansas,KS,77,36.2,36.1,27.7,63.8,13.6,Rice Krispies
+Kentucky,KY,69.7,30.9,40.4,28.7,69.1,17.3,Fiber One
+Louisiana,LA,70,34.8,34.5,30.7,65.2,18,Cocoa Crispies
+Maine,ME,79.7,37,37.7,25.2,62.9,12,Oreo O's
+Maryland,MD,77,37.3,36.4,26.3,62.7,9.7,Fiber One
+Massachusetts,MA,78.9,41.1,37.2,21.7,58.9,10.9,Thin Mint Cereal
+Michigan,MI,79.2,35.7,36.1,28.2,64.3,14.2,Special K
+Minnesota,MN,83.3,38,36,26,62,10.5,Cinnamon Toast Crunch
+Mississippi,MS,68.2,31.9,35.5,32.6,68.1,21.3,Thin Mint Cereal
+Missouri,MO,74.5,36.7,35.1,28.2,63.3,14.6,Nature Valley
+Montana,MT,80.4,38.2,39.2,22.6,61.8,13.4,Kashi
+Nebraska,NE,77.8,35.3,38.2,26.5,64.7,10.2,Captain Crunch
+Nevada,NV,75.6,37,38.4,24.6,63,13.4,Cascade Farms
+New Hampshire,NH,80.9,38.2,36.7,25.1,61.8,7.1,Rice Krispies
+New Jersey,NJ,73.9,37.7,38.2,24.1,62.3,9.8,Ancient Grains Cheerios
+New Mexico,NM,78.3,39.2,35.7,25.1,60.8,19.1,Special K
+New York,NY,75.6,38,36.4,25.5,61.9,15.3,Special K
+North Carolina,NC,75.7,35.4,35.9,28.7,64.6,16.1,Fiber One
+North Dakota,ND,77.5,35.1,37.9,27,64.9,11.6,Oreo O's
+Ohio,OH,75.7,36.5,35.4,28.1,63.5,14.1,Ancient Grains Cheerios
+Oklahoma,OK,70.4,34.9,36.3,28.8,65.1,14.3,Special K
+Oregon,OR,82.7,37.9,35.7,26.3,62,12.7,Honey Nut Cheerios
+Pennsylvania,PA,76.6,37.4,34.9,27.8,62.7,11.4,Special K
+Rhode Island,RI,76.6,39.2,39.1,21.7,60.8,13.1,Rice Krispies
+South Carolina,SC,75.2,34.7,36.3,29,65.3,14.9,Special K
+South Dakota,SD,77.4,34.5,38.3,27.2,65.5,13.5,Cocoa Crispies
+Tennessee,TN,68.5,32.6,36.7,30.7,67.4,16.1,Cheerios
+Texas,TX,71.7,34.3,37.2,28.6,65.8,17.2,Special K
+Utah,UT,80.5,42.1,35.6,22.4,58,9.1,Special K
+Vermont,VT,81.7,41.2,36.9,21.9,58.8,9.7,Special K
+Virginia,VA,78.4,38.2,36.6,25.3,61.9,10.6,Special K
+Washington,WA,82.4,37.9,36.2,25.9,62.1,11.2,Maypo
+West Virginia,WV,71.8,32,37.7,30.3,68,15.7,Count Chocula
+Wisconsin,WI,80.6,37.7,37,25.3,62.3,10.2,Fiber One
+Wyoming,WY,78.3,37.8,37.7,24.5,62.2,9.6,Ancient Grains Cheerios
