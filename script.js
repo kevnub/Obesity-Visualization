@@ -302,7 +302,7 @@ function bubble(){
             //.attr("opacity","0.5")
             .on("mousemove",function(d){
                 console.log(d)
-                tooltip.html("<b>"+ d.text + "</b><br>" + "Favourite Cereal: " + d.cereal + "<br> Poverty Rate: " + d.poverty).style("visibility", "visible").style("top", (d3.event.pageY + 15)+"px").style("left",(d3.event.pageX+15)+"px");
+                tooltip.html("<b>"+ d.text + "</b><br>" + "Favourite Cereal: " + d.cereal + "<br> Poverty Rate: " + d.poverty +"%").style("visibility", "visible").style("top", (d3.event.pageY + 15)+"px").style("left",(d3.event.pageX+15)+"px");
                 d3.select(this)
                     .style("opacity","1");
             })
